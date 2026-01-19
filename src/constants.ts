@@ -1,5 +1,5 @@
 export const LISTS = {
-  "sarcoineswap-aptos": {
+  "sarcoinswap-aptos": {
     name: "SarcoinSwap Aptos",
     keywords: ["sarcoinswap", "aptos"],
     logoURI: "https://sarcoinswap.finance/logo.png",
