@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SarcoinSwap Token Lists</title>
+</head>
+
+<body>
+
+  <script type="module">
+    const LISTS = {
+      "sarcoinswap-aptos": {
+        "name": "SarcoinSwap Aptos",
+        "keywords": [
+          "sarcoinswap",
+          "aptos"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": true,
+        "schema": "aptos",
+        "test": {
+          "skipLogo": true,
+          "aptos": true
+        }
+      },
+      "sarcoinswap-zksync-default": {
+        "name": "SarcoinSwap Zksync Default",
+        "keywords": [
+          "sarcoinswap",
+          "default",
+          "zksync"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": false
+      },
+      "sarcoinswap-linea-default": {
+        "name": "SarcoinSwap Linea Default",
+        "keywords": [
+          "sarcoinswap",
+          "default",
+          "linea"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": false
+      },
+      "sarcoinswap-base-default": {
+        "name": "SarcoinSwap Base Default",
+        "keywords": [
+          "sarcoinswap",
+          "default",
+          "base"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": false
+      },
+      "sarcoinswap-polygon-zkevm-default": {
+        "name": "SarcoinSwap Zkevm Default",
+        "keywords": [
+          "sarcoinswap",
+          "default",
+          "polygon",
+          "zkevm"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": false
+      },
+      "sarcoinswap-arbitrum-default": {
+        "name": "SarcoinSwap Arbitrum Default",
+        "keywords": [
+          "sarcoinswap",
+          "default",
+          "arbitrum"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": false
+      },
+      "sarcoinswap-eth-default": {
+        "name": "SarcoinSwap Ethereum Default",
+        "keywords": [
+          "sarcoinswap",
+          "default",
+          "ethereum"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": false
+      },
+      "sarcoinswap-eth-mm": {
+        "name": "SarcoinSwap Ethereum MM",
+        "keywords": [
+          "sarcoinswap",
+          "mm",
+          "ethereum"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": false
+      },
+      "sarcoinswap-bnb-mm": {
+        "name": "SarcoinSwap BNB Chain MM",
+        "keywords": [
+          "sarcoinswap",
+          "mm",
+          "bnb"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": false
+      },
+      "sarcoinswap-arb-mm": {
+        "name": "SarcoinSwap Arbitrum Chain MM",
+        "keywords": [
+          "sarcoinswap",
+          "mm",
+          "arbitrum"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": false,
+      },
+      "sarcoinswap-default": {
+        "name": "SarcoinSwap Default",
+        "keywords": [
+          "sarcoinswap",
+          "default"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": false
+      },
+      "sarcoinswap-extended": {
+        "name": "SarcoinSwap Extended",
+        "keywords": [
+          "sarcoinswap",
+          "extended"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": true
+      },
+      "sarcoinswap-top-100": {
+        "name": "SarcoinSwap Top 100",
+        "keywords": [
+          "sarcoinswap",
+          "top 100"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": true
+      },
+      "sarcoinswap-top-15": {
+        "name": "SarcoinSwap Top 15",
+        "keywords": [
+          "sarcoinswap",
+          "top 15"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": true
+      },
+      "coingecko": {
+        "name": "CoinGecko",
+        "keywords": [
+          "defi"
+        ],
+        "logoURI": "https://tokens.sarcoinswap.finance/images/projects/coingecko.png",
+        "sort": true,
+        "test": {
+          "skipLogo": true,
+          "aptos": false
+        }
+      },
+      "cmc": {
+        "name": "CoinMarketCap",
+        "keywords": [
+          "defi"
+        ],
+        "logoURI": "https://ipfs.io/ipfs/QmQAGtNJ2rSGpnP6dh6PPKNSmZL8RTZXmgFwgTdy5Nz5mx",
+        "sort": true,
+        "test": {
+          "skipLogo": true,
+          "aptos": false
+        }
+      },
+      "sarcoinswap-mini": {
+        "name": "SarcoinSwap Mini",
+        "keywords": [
+          "sarcoinswap",
+          "binance",
+          "mini program",
+          "mini"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": true
+      },
+      "sarcoinswap-mini-extended": {
+        "name": "SarcoinSwap Mini Ext",
+        "keywords": [
+          "sarcoinswap",
+          "binance",
+          "mini program",
+          "mini",
+          "extended"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": true
+      },
+      "sarcoinswap-onramp": {
+        "name": "SarcoinSwap Onramp",
+        "keywords": [
+          "sarcoinswap",
+          "onramp"
+        ],
+        "logoURI": "https://sarcoinswap.finance/logo.png",
+        "sort": true
+      }
+    };
+
+    const lis = Object.keys(LISTS).map((list) => {
+      return `
+        <li>
+          <a href="/${list}.json">${list}</a>
+        </li>
+        <br />
+      `
+    });
+    const ul = document.createElement('ul');
+    ul.innerHTML = lis.join('');
+    document.body.appendChild(ul);
+  </script>
+</body>
+
+</html>

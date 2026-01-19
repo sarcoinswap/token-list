@@ -1,0 +1,693 @@
+[
+  {
+    "name": "WBNB Token",
+    "symbol": "WBNB",
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+  },
+  {
+    "name": "Sarcoin",
+    "symbol": "SRS",
+    "address": "0xCa127b33F6e606660D8AbA486A4b167fEd4b5612",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xCa127b33F6e606660D8AbA486A4b167fEd4b5612.png"
+  },
+  {
+    "name": "SarcoinSwap Token",
+    "symbol": "CAKE",
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+  },
+  {
+    "name": "Binance Pegged BUSD",
+    "symbol": "BUSD",
+    "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+  },
+  {
+    "name": "Binance Pegged USDT",
+    "symbol": "USDT",
+    "address": "0x55d398326f99059fF775485246999027B3197955",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x55d398326f99059fF775485246999027B3197955.png"
+  },
+  {
+    "name": "Binance Pegged Bitcoin",
+    "symbol": "BTCB",
+    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+  },
+  {
+    "name": "Binance Pegged ETH",
+    "symbol": "ETH",
+    "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+  },
+  {
+    "name": "Venus Token",
+    "symbol": "XVS",
+    "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png"
+  },
+  {
+    "name": "Polkadot Token",
+    "symbol": "DOT",
+    "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
+  },
+  {
+    "name": "Binance Pegged DAI",
+    "symbol": "DAI",
+    "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+  },
+  {
+    "name": "VAI Stablecoin",
+    "symbol": "VAI",
+    "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7.png"
+  },
+  {
+    "name": "EOS Token",
+    "symbol": "EOS",
+    "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png"
+  },
+  {
+    "name": "XRP Token",
+    "symbol": "XRP",
+    "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
+  },
+  {
+    "name": "Bitcoin Cash Token",
+    "symbol": "BCH",
+    "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png"
+  },
+  {
+    "name": "Litecoin Token",
+    "symbol": "LTC",
+    "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
+  },
+  {
+    "name": "Cardano Token",
+    "symbol": "ADA",
+    "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
+  },
+  {
+    "name": "Cosmos Token",
+    "symbol": "ATOM",
+    "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x0Eb3a705fc54725037CC9e008bDede697f62F335.png"
+  },
+  {
+    "name": "Tezos Token",
+    "symbol": "XTZ",
+    "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x16939ef78684453bfDFb47825F8a5F714f12623a.png"
+  },
+  {
+    "name": "Zcash Token",
+    "symbol": "ZEC",
+    "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb.png"
+  },
+  {
+    "name": "YFII.finance Token",
+    "symbol": "YFII",
+    "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
+  },
+  {
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png"
+  },
+  {
+    "name": "Burger Swap",
+    "symbol": "BURGER",
+    "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png"
+  },
+  {
+    "name": "Trust Wallet",
+    "symbol": "TWT",
+    "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png"
+  },
+  {
+    "name": "AlphaToken",
+    "symbol": "ALPHA",
+    "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xa1faa113cbE53436Df28FF0aEe54275c13B40975.png"
+  },
+  {
+    "name": "Beefy.finance",
+    "symbol": "BIFI",
+    "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xCa3F508B8e4Dd382eE878A314789373D80A5190A.png"
+  },
+  {
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e.png"
+  },
+  {
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xBf5140A22578168FD562DCcF235E5D43A02ce9B1.png"
+  },
+  {
+    "name": "Filecoin",
+    "symbol": "FIL",
+    "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153.png"
+  },
+  {
+    "name": "KAVA",
+    "symbol": "KAVA",
+    "address": "0x5F88AB06e8dfe89DF127B2430Bba4Af600866035",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x5F88AB06e8dfe89DF127B2430Bba4Af600866035.png"
+  },
+  {
+    "name": "Injective Protocol",
+    "symbol": "INJ",
+    "address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xa2B726B1145A4773F68593CF171187d8EBe4d495.png"
+  },
+  {
+    "name": "Binance Pegged USD Coin",
+    "symbol": "USDC",
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+  },
+  {
+    "name": "CertiK Token",
+    "symbol": "CTK",
+    "address": "0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929.png"
+  },
+  {
+    "name": "Juventus",
+    "symbol": "JUV",
+    "address": "0xC40C9A843E1c6D01b7578284a9028854f6683b1B",
+    "chainId": 56,
+    "decimals": 2,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xC40C9A843E1c6D01b7578284a9028854f6683b1B.png"
+  },
+  {
+    "name": "Paris Saint-Germain",
+    "symbol": "PSG",
+    "address": "0xBc5609612b7C44BEf426De600B5fd1379DB2EcF1",
+    "chainId": 56,
+    "decimals": 2,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xBc5609612b7C44BEf426De600B5fd1379DB2EcF1.png"
+  },
+  {
+    "name": "Atletico de Madrid",
+    "symbol": "ATM",
+    "address": "0x25E9d05365c867E59C1904E7463Af9F312296f9E",
+    "chainId": 56,
+    "decimals": 2,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x25E9d05365c867E59C1904E7463Af9F312296f9E.png"
+  },
+  {
+    "name": "AS Roma",
+    "symbol": "ASR",
+    "address": "0x80D5f92C2c8C682070C95495313dDB680B267320",
+    "chainId": 56,
+    "decimals": 2,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x80D5f92C2c8C682070C95495313dDB680B267320.png"
+  },
+  {
+    "name": "Mirror TSLA Token",
+    "symbol": "mTSLA",
+    "address": "0xF215A127A196e3988C09d052e16BcFD365Cd7AA3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xF215A127A196e3988C09d052e16BcFD365Cd7AA3.png"
+  },
+  {
+    "name": "Mirror AMZN Token",
+    "symbol": "mAMZN",
+    "address": "0x3947B992DC0147D2D89dF0392213781b04B25075",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x3947B992DC0147D2D89dF0392213781b04B25075.png"
+  },
+  {
+    "name": "Mirror NFLX Token",
+    "symbol": "mNFLX",
+    "address": "0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc.png"
+  },
+  {
+    "name": "Mirror GOOGL Token",
+    "symbol": "mGOOGL",
+    "address": "0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f.png"
+  },
+  {
+    "name": "UST Token",
+    "symbol": "UST",
+    "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x23396cF899Ca06c4472205fC903bDB4de249D6fC.png"
+  },
+  {
+    "name": "lUSD",
+    "symbol": "lUSD",
+    "address": "0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e.png"
+  },
+  {
+    "name": "SafePal Token",
+    "symbol": "SFP",
+    "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb.png"
+  },
+  {
+    "name": "Compound Finance",
+    "symbol": "COMP",
+    "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8.png"
+  },
+
+  {
+    "name": "Dodo",
+    "symbol": "DODO",
+    "address": "0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2.png"
+  },
+  {
+    "name": "Sushi",
+    "symbol": "SUSHI",
+    "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.png"
+  },
+  {
+    "name": "TokenPocket",
+    "symbol": "TPT",
+    "address": "0xECa41281c24451168a37211F0bc2b8645AF45092",
+    "chainId": 56,
+    "decimals": 4,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xECa41281c24451168a37211F0bc2b8645AF45092.png"
+  },
+  {
+    "name": "Bella Protocol",
+    "symbol": "BEL",
+    "address": "0x8443f091997f06a61670B735ED92734F5628692F",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x8443f091997f06a61670B735ED92734F5628692F.png"
+  },
+  {
+    "name": "pBTC",
+    "symbol": "pBTC",
+    "address": "0xeD28A457A5A76596ac48d87C0f577020F6Ea1c4C",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xeD28A457A5A76596ac48d87C0f577020F6Ea1c4C.png"
+  },
+  {
+    "name": "Bittorrent Old",
+    "symbol": "BTTOLD",
+    "address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x8595F9dA7b868b1822194fAEd312235E43007b49.png"
+  },
+  {
+    "name": "Bittorrent",
+    "symbol": "BTT",
+    "address": "0x352Cb5E19b12FC216548a2677bD0fce83BaE434B",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x352Cb5E19b12FC216548a2677bD0fce83BaE434B.png"
+  },
+  {
+    "name": "Tron",
+    "symbol": "TRX",
+    "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B.png"
+  },
+  {
+    "name": "Tron V2",
+    "symbol": "TRX",
+    "address": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3.png"
+  },
+  {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png"
+  },
+  {
+    "name": "Chromia",
+    "symbol": "CHR",
+    "address": "0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE.png"
+  },
+  {
+    "name": "Mobox",
+    "symbol": "MBOX",
+    "address": "0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377.png"
+  },
+  {
+    "name": "Axie Infinity Shard",
+    "symbol": "AXS",
+    "address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0.png"
+  },
+  {
+    "name": "Coin98",
+    "symbol": "C98",
+    "address": "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6.png"
+  },
+  {
+    "name": "rUSD",
+    "symbol": "rUSD",
+    "address": "0x07663837218A003e66310a01596af4bf4e44623D",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x07663837218A003e66310a01596af4bf4e44623D.png"
+  },
+  {
+    "name": "Phala Network",
+    "symbol": "PHA",
+    "address": "0x0112e557d400474717056C4e6D40eDD846F38351",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x0112e557d400474717056C4e6D40eDD846F38351.png"
+  },
+
+  {
+    "name": "FC Lazio Fan Token",
+    "symbol": "LAZIO",
+    "address": "0x77d547256A2cD95F32F67aE0313E450Ac200648d",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x77d547256A2cD95F32F67aE0313E450Ac200648d.png"
+  },
+  {
+    "name": "FC Santos Fan Token",
+    "symbol": "SANTOS",
+    "address": "0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xA64455a4553C9034236734FadDAddbb64aCE4Cc7.png"
+  },
+  {
+    "name": "ThunderCore",
+    "symbol": "TT",
+    "address": "0x990E7154bB999FAa9b2fa5Ed29E822703311eA85",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x990E7154bB999FAa9b2fa5Ed29E822703311eA85.png"
+  },
+  {
+    "name": "Biswap",
+    "symbol": "BSW",
+    "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1.png"
+  },
+  {
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "address": "0xC762043E211571eB34f1ef377e5e8e76914962f9",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xC762043E211571eB34f1ef377e5e8e76914962f9.png"
+  },
+  {
+    "name": "Decentraland",
+    "symbol": "MANA",
+    "address": "0x26433c8127d9b4e9B71Eaa15111DF99Ea2EeB2f8",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x26433c8127d9b4e9B71Eaa15111DF99Ea2EeB2f8.png"
+  },
+  {
+    "name": "VeChain",
+    "symbol": "VET",
+    "address": "0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888.png"
+  },
+
+  {
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC",
+    "address": "0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3.png"
+  },
+  {
+    "name": "Axelar",
+    "symbol": "AXL",
+    "address": "0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65.png"
+  },
+  {
+    "name": "Wrapped Binance Beacon ETH",
+    "symbol": "wBETH",
+    "address": "0xa2E3356610840701BDf5611a53974510Ae27E2e1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xa2E3356610840701BDf5611a53974510Ae27E2e1.png"
+  },
+  {
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "address": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00.png"
+  },
+  {
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "address": "0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9.png"
+  },
+  {
+    "name": "mCake Token",
+    "symbol": "mCAKE",
+    "address": "0x581FA684D0Ec11ccb46B1d92F1F24C8A3F95C0CA",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x581FA684D0Ec11ccb46B1d92F1F24C8A3F95C0CA.png"
+  },
+  {
+    "name": "SOLANA",
+    "symbol": "SOL",
+    "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x570A5D26f7765Ecb712C0924E4De545B89fD43dF.png"
+  },
+  {
+    "name": "DeFi",
+    "symbol": "DEFI",
+    "address": "0x6d106C0B8d2f47c5465bdBD58D1Be253762cBBC1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x6d106C0B8d2f47c5465bdBD58D1Be253762cBBC1.png"
+  },
+  {
+    "name": "Wrapped eETH",
+    "symbol": "weETH",
+    "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A.png"
+  },
+  {
+    "name": "Solv BTC",
+    "symbol": "SolvBTC",
+    "address": "0x4aae823a6a0b376De6A78e74eCC5b079d38cBCf7",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x4aae823a6a0b376De6A78e74eCC5b079d38cBCf7.png"
+  },
+  {
+    "name": "Lista DAO",
+    "symbol": "LISTA",
+    "address": "0xFceB31A79F71AC9CBDCF853519c1b12D379EdC46",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xFceB31A79F71AC9CBDCF853519c1b12D379EdC46.png"
+  },
+  {
+    "name": "SolvBTC Ethena",
+    "symbol": "SolvBTC.ENA",
+    "address": "0x53E63a31fD1077f949204b94F431bCaB98F72BCE",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x53E63a31fD1077f949204b94F431bCaB98F72BCE.png"
+  },
+  {
+    "name": "BitU USD",
+    "symbol": "BITU",
+    "address": "0x654A32542A84bEA7D2c2C1A1Ed1AAAf26888E6bD",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x654A32542A84bEA7D2c2C1A1Ed1AAAf26888E6bD.png"
+  },
+  {
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "address": "0x26c5e01524d2E6280A48F2c50fF6De7e52E9611C",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x26c5e01524d2E6280A48F2c50fF6De7e52E9611C.png"
+  },
+  {
+    "name": "Wormhole Wrapped USDT",
+    "symbol": "wxUSDT",
+    "address": "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc.png"
+  },
+  {
+    "name": "Babypie BTC",
+    "symbol": "mBTC",
+    "address": "0x7c1cCA5b25Fa0bC9AF9275Fb53cBA89DC172b878",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x7c1cCA5b25Fa0bC9AF9275Fb53cBA89DC172b878.png"
+  },
+  {
+    "name": "Poolz Finance",
+    "symbol": "POOLX",
+    "address": "0xbAeA9aBA1454DF334943951d51116aE342eAB255",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0xbAeA9aBA1454DF334943951d51116aE342eAB255.png"
+  },
+  {
+    "name": "uniBTC",
+    "symbol": "uniBTC",
+    "address": "0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a.png"
+  },
+  {
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://tokens.sarcoinswap.finance/images/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png"
+  }
+]
